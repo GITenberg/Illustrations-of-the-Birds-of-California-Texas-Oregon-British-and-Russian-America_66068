@@ -1,11 +1,16 @@
 _repo: Illustrations-of-the-Birds-of-California-Texas-Oregon-British-and-Russian-America_66068
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66068-h/images/cover.jpg
 creator:
   author:
     agent_name: Cassin, John
     gutenberg_agent_id: '53625'
     url: http://www.gutenberg.org/2009/agents/53625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66068#Illustrations-of-the-Birds-of-California-Texas-Oregon-British-and-Russian-America
 gutenberg_issued: '2021-08-15'
 gutenberg_type: Text
 identifiers:
